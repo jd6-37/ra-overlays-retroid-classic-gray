@@ -4,6 +4,8 @@ This is a set of 1240 x 1080 overlays designed to match the gray bezels on the R
 
 This pack contains branded overlays for 23 different systems plus three unbranded "nologo" overlays for the three different aspect ratios (4:3, 3:2, and 16:9).
 
+![](https://raw.githubusercontent.com/jd6-37/ra-overlays-retroid-classic-gray/main/assets/photo.jpg)
+
 ## How These Work 
 
 Because the darkness of the gray color of the physical bezel will vary depending on the environment in which one is playing and the brightness setting of your screen, each of these bezel configs reference 16 different PNG files. The PNG files are of the same design but the gray color of the bezel ranges from black (00 brightness - for use at night in dark rooms) to a very light gray (75 brightness - for use outdoors in bright daylight). By cycling through these shades, while rarely a perfect match, one can usually find a "good enough" match between the gray of the overlay bezel and the gray of the device's physical bezel.
@@ -83,7 +85,7 @@ Open the template in Photoshop or Photopea.com (a free, web-based Photoshop alte
 When finished, click File > Export As > PNG. Change "Slices" setting to "All Slices". It will export a Zip file containing all sixteen frames, named 00.png through 75.png. Use these to replace the PNGs in the corresponding system folder in the "img" folder (or create a new folder and corresponding cfg file).
 
 
-![Screenshot of App](https://raw.githubusercontent.com/jd6-37/ra-overlays-retroid-classic-gray/main/assets/screenshot-psd.jpg)
+![](https://raw.githubusercontent.com/jd6-37/ra-overlays-retroid-classic-gray/main/assets/screenshot-psd.jpg)
 
 ## License
 
