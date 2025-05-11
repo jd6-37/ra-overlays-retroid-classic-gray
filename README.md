@@ -4,7 +4,7 @@ This is a set of 1240 x 1080 overlays designed to match the gray bezels on the R
 
 This pack contains branded overlays for 23 different systems plus three unbranded "nologo" overlays for the three different aspect ratios (4:3, 3:2, and 16:9).
 
-![](https://raw.githubusercontent.com/jd6-37/ra-overlays-retroid-classic-gray/main/assets/photo.jpg)
+![](https://raw.githubusercontent.com/jd6-37/ra-overlays-retroid-classic-gray/main/assets/photo.jpeg)
 
 ## How These Work 
 
