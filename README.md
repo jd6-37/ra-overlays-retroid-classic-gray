@@ -82,6 +82,9 @@ Open the template in Photoshop or Photopea.com (a free, web-based Photoshop alte
 
 When finished, click File > Export As > PNG. Change "Slices" setting to "All Slices". It will export a Zip file containing all sixteen frames, named 00.png through 75.png. Use these to replace the PNGs in the corresponding system folder in the "img" folder (or create a new folder and corresponding cfg file).
 
+
+![Screenshot of App](assets/screenshot-psd.png)
+
 ## License
 
 This project is released under the MIT License. You’re free to use, modify, and distribute it — just give credit and don’t hold me liable for anything!
