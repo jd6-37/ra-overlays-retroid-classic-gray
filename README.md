@@ -1,5 +1,7 @@
 # RetroArch Overlays for Gray Bezel Retroid Classic Devices
 
+**NOTE: The Retroid Classic has an OLED screen. Static overlays are said to sometimes cause burn-in on OLED screens. I don't know if these overlays will do that or how many hours it would take for it to happen. Do your own research and use at your own risk.**
+
 This is a set of 1240 x 1080 overlays designed to match the gray bezels on the Retroid Classic devices with gray bezels (the "Classic 6" and "Retro" colorways).
 
 This pack contains branded overlays for 23 different systems plus three unbranded "nologo" overlays for the three different aspect ratios (4:3, 3:2, and 16:9). They have rounded corners for the bottom of the screen area to match the rounded corners at the top of the device's screen.
