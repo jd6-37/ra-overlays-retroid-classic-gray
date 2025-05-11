@@ -83,7 +83,7 @@ Open the template in Photoshop or Photopea.com (a free, web-based Photoshop alte
 When finished, click File > Export As > PNG. Change "Slices" setting to "All Slices". It will export a Zip file containing all sixteen frames, named 00.png through 75.png. Use these to replace the PNGs in the corresponding system folder in the "img" folder (or create a new folder and corresponding cfg file).
 
 
-![Screenshot of App](assets/screenshot-psd.png)
+![Screenshot of App](https://raw.githubusercontent.com/jd6-37/ra-overlays-retroid-classic-gray/main/assets/screenshot-psd.jpg)
 
 ## License
 
