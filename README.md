@@ -2,7 +2,7 @@
 
 This is a set of 1240 x 1080 overlays designed to match the gray bezels on the Retroid Classic devices with gray bezels (the "Classic 6" and "Retro" colorways).
 
-This pack contains branded overlays for 23 different systems plus three unbranded "nologo" overlays for the three different aspect ratios (4:3, 3:2, and 16:9).
+This pack contains branded overlays for 23 different systems plus three unbranded "nologo" overlays for the three different aspect ratios (4:3, 3:2, and 16:9). They have rounded corners for the bottom of the screen area to match the rounded corners at the top of the device's screen.
 
 ![](https://raw.githubusercontent.com/jd6-37/ra-overlays-retroid-classic-gray/main/assets/photo.jpeg)
 
